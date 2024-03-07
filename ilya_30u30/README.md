@@ -25,4 +25,3 @@
 25. [Unreasonable effectiveness of RNNs](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 26. [First law of complexodynamics](https://scottaaronson.blog/?p=762)
 27. [Annotated transformer](https://nlp.seas.harvard.edu/annotated-transformer/)
-28. 
