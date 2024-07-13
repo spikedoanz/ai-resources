@@ -1,0 +1,6 @@
+0. [From the transistor](https://github.com/geohot/fromthetransistor)
+1. [The RISC-V Reader](http://www.riscvbook.com/)
+2. [RISC-V Elf Spec](https://github.com/riscv-non-isa/riscv-elf-psabi-doc/blob/master/riscv-elf.adoc)
+3. [Crafting Interpreters](https://craftinginterpreters.com/)
+4. [Tinygrad](https://github.com/tinygrad/tinygrad)
+5. [Tinygrad notes](https://github.com/mesozoic-egg/tinygrad-notes/blob/main/README.md)
